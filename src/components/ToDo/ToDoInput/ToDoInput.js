@@ -1,4 +1,6 @@
 import React, { Component } from 'react';
+import search from '../images/search.png';
+import './ToDoInput.css';
 
 class ToDoInput extends Component {
   constructor(props) {
